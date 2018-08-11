@@ -1,0 +1,14 @@
+{
+  "name": "ts-react-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.4.9",
+    "@types/react-dom": "^16.0.7",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "typescript": "^3.0.1"
+  },
+  "dependencies": {}
+}
